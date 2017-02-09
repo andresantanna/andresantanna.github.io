@@ -43,9 +43,10 @@ ul.posts li {
 }
 
 box1 {
-		position:absolute;
-		top: 250px;
-		left: 25px;
+	width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
 }
 
 box2 {
