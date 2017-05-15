@@ -59,3 +59,11 @@ box2 {
 		top: 250px;
 		left: 50px;
 }
+
+img1 {
+	float:left;
+}
+
+mainbox {
+    float:right;
+}
