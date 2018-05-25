@@ -4,6 +4,10 @@ body {
     font-family: 'Open Sans', 'Sans Serif';
 }
 
+div.container {
+   font-family: 'Open Sans', 'Sans Serif';
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
