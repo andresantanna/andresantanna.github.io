@@ -88,12 +88,10 @@ h3 {
     padding-top: 15px;
 }
 
-#news {
-    	padding-top: 15px;
-	background-color: grey;
+.logo {
+	padding-left: 30px
 
 }
-
 
 .container-fluid {
     padding-left: 55px;
