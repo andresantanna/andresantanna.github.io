@@ -92,11 +92,11 @@ h3 {
 
 }
 
-#news ul {
+ul {
 	list-style-type: square;
 }  
 
-#news ul li {
+ul li {
 	padding: 5px 0;
 }
 
