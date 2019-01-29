@@ -88,6 +88,23 @@ h3 {
     padding-top: 15px;
 }
 
+#news {
+
+}
+
+#news ul {
+	list-style-type: square;
+}  
+
+#news ul li {
+	padding: 5px 0;
+}
+
+#logo {
+
+	padding-bottom: 20px;
+}
+
 .logo {
 	padding-left: 30px
 
