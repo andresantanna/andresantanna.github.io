@@ -120,6 +120,16 @@ blockquote footer {
 
 }
 
+.publications-indent {
+  padding-left: 5rem;
+}
+
+.publications-indent li {
+  color: grey;
+  text-indent: 0rem;
+
+}
+
 /* Links */
 #main-container a {
   color: #1585cf;
